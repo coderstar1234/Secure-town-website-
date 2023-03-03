@@ -20,7 +20,7 @@ HIMANSHU VASHISTHA
 </div>
 <hr>
 <br>
-                ABES INSTITUTE OF TECHNOLOGY, GHAZIABAD
+               <h1 align="center" > DESCRIPTION </h1>
 This is making in hackound in srm college in Modi Nagar in a hackathon project.
 <br>
  <hr>
