@@ -1,5 +1,5 @@
 <p align="center">
-<img  wedith="600" height="400"  src="https://www.criticalstart.com/wp-content/uploads/hey-security-functionality-banner-1920x744-1.jpg"></p>
+<img  wedith="300" height="400"  src="https://www.criticalstart.com/wp-content/uploads/hey-security-functionality-banner-1920x744-1.jpg"></p>
 <h1 align="center" >Secure-town-website-</h1>
 <br>
 <div align="center">
@@ -35,29 +35,27 @@ This is making in hackound in srm college in Modi Nagar in a hackathon project.
 7.	References <br>                                                                                  
 <hr>
 <h3 align="center" >OBJECTIVE</h3>
-•	Government operates schools on central and district level where they found it very difficult to m
-manage there assets. Its also difficult to manage the operation of classes ,taking attendance , having accounts of how many classes are there ,how many labs are build and how midday meal is being delivered to each and every kid. There are approx. 15 lakh  government schools in India. which require a system by which they can handle all the data in efficient way , This is where ECO-PORTAL comes in to the
-solve the problem  
+•	The many crime in India. They are increasing in backward states just like Odisha the many problems are as follows murder, portion, rape, child level, etc.
 <hr>
 <h3 align="center" >ABSTRACT</h3>
+<tr>
+* Education website is the of project management to the creation and development of large or small-scale events such as schools, government schools, and colleges. 
 
-The main purpose of the student information system is a management information system for education establishments to manage student data. In the current system, all the activities are done manually. It is very time-consuming and costly. Our student management system deals with the various activities related to the students. For every college of the important task for the people administration department is to manage student data information details in a procedure-oriented system manner with of latest information updates for every year which need to be available for easy access. To provide this service, we designed a simple follow of the student’s information role management system enter project which has various modules which are helpful for the student administration to efficiently faculty manage the students’ details. keywords: - student information, attendance, timetable, academic calendar, contacts.
+* The last few years have seen a rapid growth in crime in backward states just as Bihari, Rajasthan, Uttar Pradesh, and Odisha.
 
-This site use to provide service 24*7 by just entering the required details of the user and also the information of the user was 100% secure and administrative. That was open by only the user or by the department. It provides day-to-day information after uploading by management and it was very easy to use on your Browser. I will also connect to your faculty of the departments so we create a different password or Id for the faculty or management of your department.
+* Considering the existing system problems related to education management we are developing an android application for future education management.
 
+* This application will be accessible only for android. The application will mainly focus in the development a country and environment and the real life problem to solve this application
+
+</tr>
 <hr>
  <h3 align="center" >INTRODUCTION</h3>
 
 
-Most students do position have the right information about their course, wrens a post able to take lectures want help from others who have information about the courses, or want to get help with assignments from their fellows. I want to create a solution for the students to have one portal where they can share their lecture and assignment information. they can communicate with their alumni & post and get the takes information about different opportunities course material books and notes.
+The project solves real-life problems. The easily handle the explain in a work to proceed to control a crime in a decentralized server the server is my website that holds five or six school’s data to maintain the work on it link schools to better management.
+The future to update a tracking id card system is used in a project the one center main/source a server to manage data the content with another system.
+Some are too aware of this program the team solves some problems. In time the easiest to maintain whole properties.
 
-This prevents any anonymous person to enter the system and mishandle the records. It is better than the manual methods as they do not have any security measures of who can access the system and who cannot.
-
-the student information management system is a management information system for education establishments to manage student data.
-
-Department can also able to differentiate the assignment into various categories like quizzes, essays, or report writing. This helps in making the studies more vibrant for the students.
-This module is one of the essential parts of the system as this will act as the official document of 
-students’ presence in the institution. it will show the attendance of the students in every course.
 <div align="center">
 <img  wedith="200" height="200"  src="https://www.scnsoft.com/_default_upload_bucket/web-portals-types.png">
 <div>
@@ -149,9 +147,11 @@ All Modules Working Flow Chart
 <img  wedith="500" height="500"  src="https://i.pinimg.com/736x/14/2b/8a/142b8a0cdc3ce06a5e21deb2e5b542aa.jpg"></p>
 <hr>
 <h3 align="center" >References</h3>
-•	https://www.youtube.com
-<br>
-•	https://www.google.com
-<br>
-•	https://projectabstracts.com
-<hr>
+
+* http://www.lloydsbankinggroup.com/media/pdfs/lbg/2012/Eco_impact_report.pdf<br>
+* http://www.each.org.uk/about_us/overview_of_each<br>
+* http://www.eventeducation.com/what-is-event.php<br>
+* http://www.conferences-uk.org.uk/venues/hitchin_priory.asp<br>
+* http://www.thehertfordshirebusinessexpo.co.uk/index.php/about/our-vision
+ 
+
